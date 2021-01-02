@@ -46,4 +46,4 @@ allowed_tokens = set(next_letter_dict.keys())
 
 ```
 
-the longest word found to be expressable with the given graph was 'horologer'. yay.
+the longest word found to be expressable with the given graph was 'horologer', and 'snowshoer' both of length 9. yay.
